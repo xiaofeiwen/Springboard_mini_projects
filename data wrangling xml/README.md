@@ -1,5 +1,5 @@
 # Goal of this exercise
-### Study examples of accessing nodes in XML tree structure
+### Study examples of accessing nodes in XML tree structure.
 ### Using data from the mondial database to answer the following questions:
 #### 1. What are the 10 countries with the lowest infant mortality rates
 #### 2. What are the 10 cities with the largest population
